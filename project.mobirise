@@ -94,7 +94,7 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "color": "#ffffff",
+              "color": "#f3c649",
               "font-size": "15px"
             },
             "SPAN": {
