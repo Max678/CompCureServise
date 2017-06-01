@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "CompCore Service.com.html",
+    "currentPage": "CompCure Service.com.html",
     "name": "CompCure-Serviсe.com",
     "theme": {
       "name": "mobirise3",
@@ -30,194 +30,6 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "CompCore Service.com.html": {
-      "settings": {
-        "main": true,
-        "title": "CompCure Service",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "25px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-family": "'Yanone Kaffeesatz', sans-serif"
-            },
-            ".link": {
-              "font-size": "1.2rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#c7baba"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#d7cece!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ded6d6"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
-            },
-            ".btn": {
-              "font-size": "20px"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-4",
-          "_params": {
-            "bgColor": "#ded6d6",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Yanone Kaffeesatz",
-              "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "css": "'Yanone Kaffeesatz', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/96655f-0171fd498b74412a820c82c58d7555b8-157x128-98.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "main.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"CompCore Service.com.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COMPCURE&nbsp;<br>SERVICE<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">УСЛУГИ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contacts.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Submit your application.html\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>ОСТАВИТЬ ЗАЯВКУ</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px",
-              "color": "#292cb0"
-            },
-            ".mbr-section-text I": {
-              "font-size": "21px",
-              "color": "#0d00ff"
-            },
-            ".mbr-section-title I": {
-              "color": "#2969b0"
-            },
-            ".mbr-section-text B": {
-              "color": "#292cb0",
-              "font-size": "21px"
-            },
-            ".mbr-section-text SPAN": {
-              "font-size": "19px",
-              "color": "#292cb0"
-            }
-          },
-          "_anchor": "header2-7",
-          "_params": {
-            "imageSize": "56",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-uploads-141103282695035fa1380-95cdfeef-2000x1027-94.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#41a85f",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2-z54-e18982cb-1547-43ef-845b-7df24c581faa-1400x796-1.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "<br>ВАШ КОМПЬЮТЕР ПРИБОЛЕЛ?",
-          "text": "<br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>ОДОЛЕЛИ ВИРУСЫ? </i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>СНИЗИЛАСЬ РАБОТОСПОСОБНОСТЬ?</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>ДУМАЕТЕ, ПОТРЕБУЕТСЯ ДЛИТЕЛЬНЫЙ ОТПУСК?</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i><br></i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>ЕСТЬ РЕШЕНИЕ!</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>COMPCURE SERVICE!</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>ВЫСОКОКАЧЕСТВЕННЫЙ РЕМОНТ!</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>ПРОФЕССИОНАЛЬНЫЕ СПЕЦИАЛИСТЫ!</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>И ВАШ ДРУГ СНОВА ОБРЕТЁТ УВЕРЕННОСТЬ И ВЫСОКУЮ ПРОИЗВОДИТЕЛЬНОСТЬ=)</i></b></span></font>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        }
-      ]
-    },
     "services.html": {
       "settings": {
         "title": "service.html"
@@ -282,7 +94,7 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "color": "#2b0680",
+              "color": "#ffffff",
               "font-size": "15px"
             },
             "SPAN": {
@@ -297,7 +109,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1478131462274-b5d47f881573-2000x1333-86.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
@@ -627,6 +439,194 @@
           "title": "VIDEO BACKGROUND",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"CompCore Service.com.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Contacts.html\" data-toolbar=\"-mbrBtnMove\">СВЯЗАТЬСЯ С НАМИ</a>"
+        }
+      ]
+    },
+    "CompCure Service.com.html": {
+      "settings": {
+        "main": true,
+        "title": "CompCure Service",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "25px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-family": "'Yanone Kaffeesatz', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.2rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.300rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#c7baba"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#d7cece!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ded6d6"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4",
+          "_params": {
+            "bgColor": "#ded6d6",
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Yanone Kaffeesatz",
+              "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "css": "'Yanone Kaffeesatz', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/96655f-0171fd498b74412a820c82c58d7555b8-157x128-98.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "main.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"CompCore Service.com.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COMPCURE&nbsp;<br>SERVICE<br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">УСЛУГИ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contacts.html\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Submit your application.html\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>ОСТАВИТЬ ЗАЯВКУ</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px",
+              "color": "#292cb0"
+            },
+            ".mbr-section-text I": {
+              "font-size": "21px",
+              "color": "#0d00ff"
+            },
+            ".mbr-section-title I": {
+              "color": "#2969b0"
+            },
+            ".mbr-section-text B": {
+              "color": "#292cb0",
+              "font-size": "21px"
+            },
+            ".mbr-section-text SPAN": {
+              "font-size": "19px",
+              "color": "#292cb0"
+            }
+          },
+          "_anchor": "header2-7",
+          "_params": {
+            "imageSize": "56",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-uploads-141103282695035fa1380-95cdfeef-2000x1027-94.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#41a85f",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2-z54-e18982cb-1547-43ef-845b-7df24c581faa-1400x796-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<br>ВАШ КОМПЬЮТЕР ПРИБОЛЕЛ?",
+          "text": "<br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>ОДОЛЕЛИ ВИРУСЫ? </i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>СНИЗИЛАСЬ РАБОТОСПОСОБНОСТЬ?</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>ДУМАЕТЕ, ПОТРЕБУЕТСЯ ДЛИТЕЛЬНЫЙ ОТПУСК?</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i><br></i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>ЕСТЬ РЕШЕНИЕ!</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>COMPCURE SERVICE!</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>ВЫСОКОКАЧЕСТВЕННЫЙ РЕМОНТ!</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>ПРОФЕССИОНАЛЬНЫЕ СПЕЦИАЛИСТЫ!</i></b></span></font><br><font color=\"#0d00ff\"><span style=\"font-size: 21px; line-height: 31px;\"><b><i>И ВАШ ДРУГ СНОВА ОБРЕТЁТ УВЕРЕННОСТЬ И ВЫСОКУЮ ПРОИЗВОДИТЕЛЬНОСТЬ=)</i></b></span></font>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
